@@ -12,7 +12,7 @@ I'm working on the ISO, kernel, installer, and desktop, with the goal of making 
 - **Simplicity** — Keep things clean and avoid unnecessary bloat
 - **Performance** — Make sensible choices about what's included and how the system runs
 - **Customization** — Build things the way I want them, while leaving room for users to make their own changes
-- **My own tools** — Experiment with custom tools and package management
+- **My own tools** — Experiment with custom tools
 - **Learn by doing** — Figure things out by actually building and testing them
 
 ## Planned Features
