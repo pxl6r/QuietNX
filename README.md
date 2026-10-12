@@ -39,3 +39,4 @@ It's still early, and I'm figuring things out as I go. Things will change, and t
 # Screenshots Of Development (NOT FINISHED THEMING!!)
 
 <img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/Screenshots/fastfetch.png" alt="Fastfetch" width="750">
+<img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/Screenshots/about.png" alt="Fastfetch" width="750">
