@@ -4,7 +4,7 @@ QuietNX is a Linux distro I'm building because I want something of my own. I wan
 
 I'm working on the ISO, kernel, installer, and desktop, with the goal of making QuietNX feel like its own system rather than just another Linux setup.
 
-<img src="https://github.com/P6larr/QuietNX/blob/main/Assets/QuietNX%20logo.png" alt="QuietNX Logo" width="350">
+<img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/QuietNX%20logo.png" alt="QuietNX Logo" width="350">
 
 ## Goals
 
