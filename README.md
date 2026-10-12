@@ -26,6 +26,8 @@ I'm working on the ISO, kernel, installer, and desktop, with the goal of making 
 - Freedom to install other desktop environments or window managers
 - More custom tools as the project develops
 
+
+
 ## Current Status
 
 QuietNX already has a bootable ISO. Right now, I'm working on the installer and making sure the installed system works properly.
@@ -33,3 +35,7 @@ QuietNX already has a bootable ISO. Right now, I'm working on the installer and 
 Once that's sorted, I'll move on to the desktop experience, theming, and other ideas I have for the project.
 
 It's still early, and I'm figuring things out as I go. Things will change, and that's part of the process.
+
+# Screenshots
+
+<img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/Screenshots/fastfetch.png" alt="Fastfetch" width="750">
