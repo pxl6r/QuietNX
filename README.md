@@ -36,6 +36,6 @@ Once that's sorted, I'll move on to the desktop experience, theming, and other i
 
 It's still early, and I'm figuring things out as I go. Things will change, and that's part of the process.
 
-# Screenshots
+# Screenshots Of Development
 
 <img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/Screenshots/fastfetch.png" alt="Fastfetch" width="750">
