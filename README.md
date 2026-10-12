@@ -1,31 +1,35 @@
 # QuietNX
 
-QuietNX is a custom Linux distribution I'm building on top of Arch Linux. The goal is to create something lightweight, customizable, and with its own identity.
+QuietNX is a Linux distro I'm building because I want something of my own. I want it to be simple, fast, customizable, and not packed with stuff I'll never use.
 
-I want to keep things simple, avoid unnecessary bloat, and gradually add my own tools and features as the project develops.
+I'm working on the ISO, kernel, installer, and desktop, with the goal of making QuietNX feel like its own system rather than just another Linux setup.
 
 <img src="https://github.com/P6larr/QuietNX/blob/main/Assets/QuietNX%20logo.png" alt="QuietNX Logo" width="180">
 
 ## Goals
 
-* **Make it my own** — Give QuietNX its own identity, configuration, and user experience
-* **Keep it lightweight** — Include only what makes sense for the system
-* **Customization** — Configure the system to fit the vision for QuietNX
-* **Custom package manager** — Experiment with my own package management solution in the future
-* **Desktop flexibility** — Leave room for different desktop environments and window managers
-* **Learn by building** — Understand how Linux works by developing and customizing my own distribution
+- **Its own identity** — Give QuietNX its own look, setup, and feel
+- **Simplicity** — Keep things clean and avoid unnecessary bloat
+- **Performance** — Make sensible choices about what's included and how the system runs
+- **Customization** — Build things the way I want them, while leaving room for users to make their own changes
+- **My own tools** — Experiment with custom tools and package management
+- **Learn by doing** — Figure things out by actually building and testing them
 
 ## Planned Features
 
-* Arch Linux base with systemd
-* Custom ISO built with Archiso
-* Customized desktop experience
-* Graphical installer using Calamares
-* Support for additional desktop environments and window managers
-* Potential custom package management tools in the future
+- Arch-based system built with Archiso
+- Custom bootable ISO
+- Custom QuietNX kernel
+- CLI installer with UEFI and BIOS support
+- GNOME as the default desktop environment
+- QuietNX themes and system configuration
+- Freedom to install other desktop environments or window managers
+- More custom tools as the project develops
 
 ## Current Status
 
-QuietNX is in early development. I'm moving toward an Arch-based system and working toward a bootable ISO. The installer, desktop customization, and other planned features still need to be implemented.
+QuietNX already has a bootable ISO. Right now, I'm working on the installer and making sure the installed system works properly.
 
-Things may change as development continues.
+Once that's sorted, I'll move on to the desktop experience, theming, and other ideas I have for the project.
+
+It's still early, and I'm figuring things out as I go. Things will change, and that's part of the process.
