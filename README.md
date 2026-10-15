@@ -35,8 +35,3 @@ QuietNX already has a bootable ISO. Right now, I'm working on the installer and 
 Once that's sorted, I'll move on to the desktop experience, theming, and other ideas I have for the project.
 
 It's still early, and I'm figuring things out as I go. Things will change, and that's part of the process.
-
-# Screenshots Of Development (NOT FINISHED THEMING!!)
-
-<img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/Screenshots/fastfetch.png" alt="Fastfetch" width="750">
-<img src="https://github.com/pxl6r/QuietNX/blob/main/Assets/Screenshots/about.png" alt="Fastfetch" width="750">
